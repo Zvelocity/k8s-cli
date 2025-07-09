@@ -6,9 +6,9 @@ import (
 	"github.com/charmbracelet/bubbles/spinner"
 	tea "github.com/charmbracelet/bubbletea"
 
-	"zvelocity/k8s-cli/internal/client"
-	"zvelocity/k8s-cli/internal/resources"
-	"zvelocity/k8s-cli/internal/ui"
+	"github.com/zvelocity/k8s-cli/internal/client"
+	"github.com/zvelocity/k8s-cli/internal/resources"
+	"github.com/zvelocity/k8s-cli/internal/ui"
 )
 
 // Model is the main application model
